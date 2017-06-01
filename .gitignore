@@ -1,3 +1,9 @@
+# eclipse
+.project
+.classpath
+bin/
+target/
+
 # Compiled class file
 *.class
 
